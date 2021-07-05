@@ -1,0 +1,6 @@
+# Ignore all files in any directory named build (e.g., .idea/out)
+.idea
+out
+
+# Ignore all Intellij Idea files
+*.iml
